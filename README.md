@@ -1,5 +1,48 @@
-<h3 align="center">A passionate frontend developer from Somewhere</h3>
+<h3 align="center">This is a test readme, don't trust it</h3>
 
+- 🔭 I’m currently working on **github**
+
+- 🌱 I’m currently learning **ruby**
+
+- 👯 I’m looking to collaborate on **open source**
+
+- 🤝 I’m looking for help with **ruby**
+
+- 💬 Ask me about **not sure if can be of any help, but Android I guess?**
+
+- 🔭 I’m currently working on **github**
+
+- 🌱 I’m currently learning **ruby**
+
+- 👯 I’m looking to collaborate on **open source**
+
+- 🤝 I’m looking for help with **ruby**
+
+- 💬 Ask me about **not sure if can be of any help, but Android I guess?**
+
+- 
+- 🔭 I’m currently working on **github**
+
+- 🌱 I’m currently learning **ruby**
+
+- 👯 I’m looking to collaborate on **open source**
+
+- 🤝 I’m looking for help with **ruby**
+
+- 💬 Ask me about **not sure if can be of any help, but Android I guess?**
+
+- 
+- 🔭 I’m currently working on **github**
+
+- 🌱 I’m currently learning **ruby**
+
+- 👯 I’m looking to collaborate on **open source**
+
+- 🤝 I’m looking for help with **ruby**
+
+- 💬 Ask me about **not sure if can be of any help, but Android I guess?**
+
+- 
 - 🔭 I’m currently working on **github**
 
 - 🌱 I’m currently learning **ruby**
