@@ -14,45 +14,6 @@
 
 - 🌱 I’m currently learning **ruby**
 
-- 👯 I’m looking to collaborate on **open source**
-
-- 🤝 I’m looking for help with **ruby**
-
-- 💬 Ask me about **not sure if can be of any help, but Android I guess?**
-
-- 
-- 🔭 I’m currently working on **github**
-
-- 🌱 I’m currently learning **ruby**
-
-- 👯 I’m looking to collaborate on **open source**
-
-- 🤝 I’m looking for help with **ruby**
-
-- 💬 Ask me about **not sure if can be of any help, but Android I guess?**
-
-- 
-- 🔭 I’m currently working on **github**
-
-- 🌱 I’m currently learning **ruby**
-
-- 👯 I’m looking to collaborate on **open source**
-
-- 🤝 I’m looking for help with **ruby**
-
-- 💬 Ask me about **not sure if can be of any help, but Android I guess?**
-
-- 
-- 🔭 I’m currently working on **github**
-
-- 🌱 I’m currently learning **ruby**
-
-- 👯 I’m looking to collaborate on **open source**
-
-- 🤝 I’m looking for help with **ruby**
-
-- 💬 Ask me about **not sure if can be of any help, but Android I guess?**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
