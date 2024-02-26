@@ -14,6 +14,12 @@
 
 - 🌱 I’m currently learning **ruby**
 
+- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
+  resize in browser.
+- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
+  i18n with plurals support and easy syntax.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
