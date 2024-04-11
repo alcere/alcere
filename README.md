@@ -1,7 +1,4 @@
 - [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image
-- - [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image
-  - - [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image
-  resize in browser.
 
 
 <h3 align="left">Languages and Tools:</h3>
