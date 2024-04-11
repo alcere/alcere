@@ -2,6 +2,27 @@
   resize in browser.
 - [babelfish](https://github.com/nodeca/babelfish/) - developer friendly
   i18n with plurals support and easy syntax.
+- [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image
+  resize in browser.
+- [babelfish](https://github.com/nodeca/babelfish/) - developer friendly
+  i18n with plurals support and easy syntax.
+- [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image
+  resize in browser.
+- [babelfish](https://github.com/nodeca/babelfish/) - developer friendly
+  i18n with plurals support and easy syntax.
+- [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image
+  resize in browser.
+- [babelfish](https://github.com/nodeca/babelfish/) - developer friendly
+  i18n with plurals support and easy syntax.
+- [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image
+  resize in browser.
+- [babelfish](https://github.com/nodeca/babelfish/) - developer friendly
+  i18n with plurals support and easy syntax.
+- [pica](https://nodeca.github.io/pica/demo/) - high quality and fast image
+  resize in browser.
+- [babelfish](https://github.com/nodeca/babelfish/) - developer friendly
+  i18n with plurals support and easy syntax.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
